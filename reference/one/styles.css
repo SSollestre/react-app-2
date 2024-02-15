@@ -2,22 +2,21 @@
     background-color: rgb(221, 235, 248);
 }
 
-.article-title,
-.article-h3 {
-    color: rgb(6, 111, 212)
+.article-title, .article-h3{
+    color:rgb(6, 111, 212)
 }
-
+    
 .article-h3 {
-    font-weight: bold;
+    font-weight:bold;
 }
 
 .banner-text-container {
-    display: grid;
+    display:grid;
     place-items: center;
 }
 
 .banner-text {
-    color: white;
+    color:white;
     font-weight: lighter;
 }
 
